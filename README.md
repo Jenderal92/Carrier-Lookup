@@ -1,8 +1,4 @@
-# Carrier-Lookup
-
-Python 2.7
-
-# Email-Validation
+# Phone-Number-Carrier-Lookup
 
 Python 2.7
 
